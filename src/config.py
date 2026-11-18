@@ -1,3 +1,3 @@
-PROJECT_NAME = "CoffeeVision"
+PROJECT_NAME = "CoffeeVision-B"
 VERSION = "1.0.0"
 CONFIDENCE_THRESHOLD = 0.5
