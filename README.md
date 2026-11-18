@@ -179,3 +179,4 @@ Le projet CoffeeVision utilise Git et GitHub pour faciliter le travail collabora
 
 
 
+Le projet utilise un workflow collaboratif avec GitHub.
