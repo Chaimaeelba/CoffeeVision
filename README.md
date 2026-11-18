@@ -116,8 +116,6 @@ CoffeeVision/
 |-- .gitignore
 ```
 
-Cette structure sera enrichie progressivement au cours du développement.
-
 ## 8. Données et intelligence artificielle
 
 Le projet repose sur des vidéos de comptoir représentant différents scénarios :
@@ -130,8 +128,6 @@ Le projet repose sur des vidéos de comptoir représentant différents scénario
 - Scènes sans événement de service.
 
 Les données seront annotées pour entraîner et évaluer le modèle de détection.
-
-Les ensembles d'entraînement, de validation et de test seront séparés par session vidéo afin d'éviter les fuites de données.
 
 ## 9. Évaluation et performances
 
