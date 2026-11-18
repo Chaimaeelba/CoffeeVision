@@ -173,5 +173,9 @@ Les tâches sont organisées et suivies dans Jira.
 | Chaimae Elbahchoumi | ENSA Khouribga |
 | Mohammed Agoulzi | ENSA Khouribga |
 
+## Collaboration
+
+Le projet CoffeeVision utilise Git et GitHub pour faciliter le travail collaboratif.
+
 
 
